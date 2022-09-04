@@ -1,4 +1,9 @@
-### Hi there 👋
+### Heya 👋
+
+✨Amateur programmer  
+📡Full time trainee network engineer  
+
+You can contact me on discord: Rhombus#1945
 
 <!--
 **LongingRhombus9/LongingRhombus9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
