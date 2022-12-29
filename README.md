@@ -1,7 +1,7 @@
 ### Heya 👋
 
 ✨Amateur programmer  
-📡Full time trainee network engineer  
+📡Full time network engineer  
 
 You can contact me on discord: Rhombus#1945
 
